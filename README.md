@@ -32,24 +32,25 @@ You can view the live version of this page hosted via **GitHub Pages**:
 > ⚡ **Tip:** To host on GitHub Pages, go to your repository → Settings → Pages → Select `main` branch → Save. Your website will be live at the URL above.
 
 ## 📁 Project Structure
-Shopzone_clone/
-│
-├── index.html         # Main HTML page
-├── style.css          # CSS styles
-├── Bedding.jpg        # Product images
-├── CleaningTool.jpg
-├── Decor.jpg
-├── HomeDecor.jpg
-├── HomeStorage.jpg
-├── Home_Flip_Summer.jpg
-├── bedding&bath.jpg
-├── best seller.jpg
-├── cat_photo.jpg
-├── gaming.jpg
-├── herosection.jpg
-├── improvement.jpg
-├── nature.jpg
-├── shopzone.jpg
+
+- **Shopzone_clone/**
+  - `index.html` – Main HTML page
+  - `style.css` – CSS styles
+  - `Bedding.jpg` – Product images
+  - `CleaningTool.jpg`
+  - `Decor.jpg`
+  - `HomeDecor.jpg`
+  - `HomeStorage.jpg`
+  - `Home_Flip_Summer.jpg`
+  - `bedding&bath.jpg`
+  - `best seller.jpg`
+  - `cat_photo.jpg`
+  - `gaming.jpg`
+  - `herosection.jpg`
+  - `improvement.jpg`
+  - `nature.jpg`
+  - `shopzone.jpg`
+
 
 ## ⚙️ Technologies Used
 

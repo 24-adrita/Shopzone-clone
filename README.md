@@ -14,20 +14,6 @@ A modern, responsive e-commerce landing page clone of **Shopzone**, built with *
 - Easy-to-customize **HTML & CSS** structure  
 - Images and visual content optimized for fast loading  
 
-## 🖼️ Screenshots
-
-![Home Page](./herosection.jpg)  
-*Example of the landing page hero section.*
-
-![Products](./Bedding.jpg)  
-*Sample product category display.*
-
-*(Add more images as needed, referencing your project images.)*
-
-## 🚀 Live Demo
-
-You can view the live version of this page hosted via **GitHub Pages**:  
-[Shopzone Clone Live Demo](https://24-adrita.github.io/Shopzone-clone/)  
 
 > ⚡ **Tip:** To host on GitHub Pages, go to your repository → Settings → Pages → Select `main` branch → Save. Your website will be live at the URL above.
 

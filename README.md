@@ -20,7 +20,6 @@ A modern, responsive e-commerce landing page clone of **Shopzone**, built with *
 You can view the live version of this page hosted via **GitHub Pages**:  
 [Shopzone Clone Live Demo](https://24-adrita.github.io/Shopzone-clone/)  
 
-> ⚡ **Tip:** To host on GitHub Pages, go to your repository → Settings → Pages → Select `main` branch → Save. Your website will be live at the URL above.
 
 ## 📁 Project Structure
 
